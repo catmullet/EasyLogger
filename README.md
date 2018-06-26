@@ -1,6 +1,4 @@
 ![EasyLogger](https://raw.githubusercontent.com/catmullet/EasyLogger/master/EasyLogger_Banner.png)
-
-[![Maintainability](https://api.codeclimate.com/v1/badges/94e11fd3b812339047c5/maintainability)](https://codeclimate.com/github/catmullet/EasyLogger/maintainability)
 [![Go Report Card](https://goreportcard.com/badge/github.com/catmullet/EasyLogger)](https://goreportcard.com/report/github.com/catmullet/EasyLogger)
 
 # _Simple, useful Golang logs on ElasticSearch_
